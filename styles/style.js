@@ -10,7 +10,7 @@ export const gStyle = StyleSheet.create({
     title: {
         fontSize: 20,
         color: '#333',
-        fontFamily: 'mt-light:',
-        textAlign: 'center'
+        // fontFamily: 'mt-bold:',
+        textAlign: 'center',
     }
 })
